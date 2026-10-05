@@ -39,8 +39,9 @@ až po dlouhé souvislé dialogy.
 ### Kernel není jen hlas.
 
 Je to krok směrem k tomu, aby **lokální TTS znělo jako skutečná řeč**.
-***Poslechni si mě*** **https://ko-fi.com/s/d80194bb1c**
-A pokud hledáte český hlas pro Piper, který dokáže mluvit plynule a přirozeně, **Kernel rozhodně stojí za vyzkoušení.**
+
+a pokud hledáte český hlas pro Piper, který dokáže mluvit plynule a přirozeně, **Kernel rozhodně stojí za vyzkoušení.**
+### Poslechni si mě **https://ko-fi.com/s/d80194bb1c**
 
 **Kernel — český hlas pro Piper.  
 Méně syntézy. Více řeči.**  
